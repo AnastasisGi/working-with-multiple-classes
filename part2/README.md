@@ -1,4 +1,4 @@
-# Mock! - Part 1
+# Mock! - Demo
 
 ## Learning Objectives:
 
